@@ -1,57 +1,57 @@
 .blue {
-  color: navy;
+	color: navy;
 }
 .blue.textview {
-  background-color: aliceBlue;
+	background-color: aliceBlue;
 }
 .blue .ruler.annotations {
-  background-color: lavender;
+	background-color: lavender;
 }
 .blue .ruler.lines {
-  background-color: lavender;
+	background-color: lavender;
 }
 .blue .ruler.folding {
-  background-color: lavender;
+	background-color: lavender;
 }
 .blue .ruler.overview {
-  background-color: lavender;
+	background-color: lavender;
 }
 .blue .rulerLines {
-  color: darkSlateGray;
+	color: darkSlateGray;
 }
 .blue .rulerLines.even {
-  color: darkSlateGray;
+	color: darkSlateGray;
 }
 .blue .rulerLines.odd {
-  color: darkSlateGray;
+	color: darkSlateGray;
 }
 .blue .annotationLine.currentLine {
-  background-color: white;
+	background-color: white;
 }
 .blue .entity-name-tag {
-  color: cornFlowerBlue;
+	color: cornFlowerBlue;
 }
 .blue .entity-other-attribute-name {
-  color: cadetBlue;
+	color: cadetBlue;
 }
 .blue .string-quoted {
-  color: cornFlowerBlue;
+	color: cornFlowerBlue;
 }
 .blue .meta.annotation.currentLine {
-  background-color: white;
+	background-color: white;
 }
 .blue .keyword {
-  color: cornFlowerBlue;
+	color: cornFlowerBlue;
 }
 .blue .string {
-  color: cornFlowerBlue;
+	color: cornFlowerBlue;
 }
 .blue .comment {
-  color: indigo;
+	color: indigo;
 }
 .blue .comment.block.documentation {
-  color: indigo;
+	color: indigo;
 }
 .blue .keyword.other.documentation.markup {
-  color: indigo;
+	color: indigo;
 }

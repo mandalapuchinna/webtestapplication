@@ -1,66 +1,66 @@
 .tierra {
-  color: #555555;
+	color: #555555;
 }
 .tierra.textview {
-  background-color: lemonchiffon;
+	background-color: lemonchiffon;
 }
 .tierra .ruler.annotations {
-  background-color: moccasin;
+	background-color: moccasin;
 }
 .tierra .ruler.lines {
-  background-color: moccasin;
+	background-color: moccasin;
 }
 .tierra .ruler.folding {
-  background-color: moccasin;
+	background-color: moccasin;
 }
 .tierra .ruler.overview {
-  background-color: moccasin;
+	background-color: moccasin;
 }
 .tierra .rulerLines {
-  color: chocolate;
+	color: chocolate;
 }
 .tierra .rulerLines.even {
-  color: chocolate;
+	color: chocolate;
 }
 .tierra .rulerLines.odd {
-  color: chocolate;
+	color: chocolate;
 }
 .tierra .annotationLine.currentLine {
-  background-color: #baa289;
+	background-color: #baa289;
 }
 .tierra .entity-name-tag {
-  color: darkred;
+	color: darkred;
 }
 .tierra .entity-other-attribute-name {
-  color: cadetBlue;
+	color: cadetBlue;
 }
 .tierra .string-quoted {
-  color: orangered;
+	color: orangered;
 }
 .tierra .meta.annotation.currentLine {
-  background-color: #baa289;
+	background-color: #baa289;
 }
 .tierra .keyword {
-  color: darkred;
+	color: darkred;
 }
 .tierra .string {
-  color: orangered;
+	color: orangered;
 }
 .tierra .comment {
-  color: darkseagreen;
+	color: darkseagreen;
 }
 .tierra .comment.block.documentation {
-  color: darkseagreen;
+	color: darkseagreen;
 }
 .tierra .keyword.other.documentation.markup {
-  color: darkseagreen;
+	color: darkseagreen;
 }
 .tierra .textviewSelection {
-  background-color: moccasin;
+	background-color: moccasin;
 }
 .tierra .textviewContent ::selection {
-  background-color: moccasin;
+	background-color: moccasin;
 }
 .tierra .textviewContent ::-moz-selection {
-  background-color: moccasin;
+	background-color: moccasin;
 }

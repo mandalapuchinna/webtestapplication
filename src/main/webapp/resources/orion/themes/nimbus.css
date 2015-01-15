@@ -1,66 +1,66 @@
 .nimbus {
-  color: white;
+	color: white;
 }
 .nimbus.textview {
-  background-color: dimgray;
+	background-color: dimgray;
 }
 .nimbus .ruler.annotations {
-  background-color: #444;
+	background-color: #444;
 }
 .nimbus .ruler.lines {
-  background-color: #444;
+	background-color: #444;
 }
 .nimbus .ruler.folding {
-  background-color: #444;
+	background-color: #444;
 }
 .nimbus .ruler.overview {
-  background-color: #444;
+	background-color: #444;
 }
 .nimbus .rulerLines {
-  color: #aaa;
+	color: #aaa;
 }
 .nimbus .rulerLines.even {
-  color: #aaa;
+	color: #aaa;
 }
 .nimbus .rulerLines.odd {
-  color: #aaa;
+	color: #aaa;
 }
 .nimbus .annotationLine.currentLine {
-  background-color: #aabfbb;
+	background-color: #aabfbb;
 }
 .nimbus .entity-name-tag {
-  color: darkorange;
+	color: darkorange;
 }
 .nimbus .entity-other-attribute-name {
-  color: cadetBlue;
+	color: cadetBlue;
 }
 .nimbus .string-quoted {
-  color: cornflowerblue;
+	color: cornflowerblue;
 }
 .nimbus .meta.annotation.currentLine {
-  background-color: #aabfbb;
+	background-color: #aabfbb;
 }
 .nimbus .keyword {
-  color: darkorange;
+	color: darkorange;
 }
 .nimbus .string {
-  color: cornflowerblue;
+	color: cornflowerblue;
 }
 .nimbus .comment {
-  color: darkseagreen;
+	color: darkseagreen;
 }
 .nimbus .comment.block.documentation {
-  color: darkseagreen;
+	color: darkseagreen;
 }
 .nimbus .keyword.other.documentation.markup {
-  color: darkseagreen;
+	color: darkseagreen;
 }
 .nimbus .textviewSelection {
-  background-color: gray;
+	background-color: gray;
 }
 .nimbus .textviewContent ::selection {
-  background-color: gray;
+	background-color: gray;
 }
 .nimbus .textviewContent ::-moz-selection {
-  background-color: gray;
+	background-color: gray;
 }

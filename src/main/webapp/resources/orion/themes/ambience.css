@@ -1,66 +1,66 @@
 .ambience {
-  color: darkseagreen;
+	color: darkseagreen;
 }
 .ambience.textview {
-  background-color: #202020;
+	background-color: #202020;
 }
 .ambience .ruler.annotations {
-  background-color: #3D3D3D;
+	background-color: #3D3D3D;
 }
 .ambience .ruler.lines {
-  background-color: #3D3D3D;
+	background-color: #3D3D3D;
 }
 .ambience .ruler.folding {
-  background-color: #3D3D3D;
+	background-color: #3D3D3D;
 }
 .ambience .ruler.overview {
-  background-color: white;
+	background-color: white;
 }
 .ambience .rulerLines {
-  color: black;
+	color: black;
 }
 .ambience .rulerLines.even {
-  color: black;
+	color: black;
 }
 .ambience .rulerLines.odd {
-  color: black;
+	color: black;
 }
 .ambience .annotationLine.currentLine {
-  background-color: lightcyan;
+	background-color: lightcyan;
 }
 .ambience .entity-name-tag {
-  color: cornFlowerBlue;
+	color: cornFlowerBlue;
 }
 .ambience .entity-other-attribute-name {
-  color: cadetBlue;
+	color: cadetBlue;
 }
 .ambience .string-quoted {
-  color: lightcoral;
+	color: lightcoral;
 }
 .ambience .meta.annotation.currentLine {
-  background-color: lightcyan;
+	background-color: lightcyan;
 }
 .ambience .keyword {
-  color: cornFlowerBlue;
+	color: cornFlowerBlue;
 }
 .ambience .string {
-  color: lightcoral;
+	color: lightcoral;
 }
 .ambience .comment {
-  color: mediumslateblue;
+	color: mediumslateblue;
 }
 .ambience .comment.block.documentation {
-  color: mediumslateblue;
+	color: mediumslateblue;
 }
 .ambience .keyword.other.documentation.markup {
-  color: mediumslateblue;
+	color: mediumslateblue;
 }
 .ambience .textviewSelection {
-  background-color: lightcyan;
+	background-color: lightcyan;
 }
 .ambience .textviewContent ::selection {
-  background-color: lightcyan;
+	background-color: lightcyan;
 }
 .ambience .textviewContent ::-moz-selection {
-  background-color: lightcyan;
+	background-color: lightcyan;
 }
