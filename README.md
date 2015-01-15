@@ -16,12 +16,11 @@ WebtestApplication has a standalone version which contains `apache-tomcat-7.0.55
 * To assign a value that fetch from database by using `<sql>`, please use this syntax `<sql>SELECT 'a_variable' || field FROM table WHERE id=1</sql>`. From now on you can access to `${a_variable}` anytime.
 
 ## Screenshots
-![alt tag](https://raw.githubusercontent.com/pltchuong/WebtestApplication/master/screenshot/1.png)
-![alt tag](https://raw.githubusercontent.com/pltchuong/WebtestApplication/master/screenshot/2.png)
-![alt tag](https://raw.githubusercontent.com/pltchuong/WebtestApplication/master/screenshot/3.png)
-![alt tag](https://raw.githubusercontent.com/pltchuong/WebtestApplication/master/screenshot/4.png)
-![alt tag](https://raw.githubusercontent.com/pltchuong/WebtestApplication/master/screenshot/5.png)
-![alt tag](https://raw.githubusercontent.com/pltchuong/WebtestApplication/master/screenshot/6.png)
+![configuration](https://raw.githubusercontent.com/pltchuong/WebtestApplication/master/screenshots/1.png)
+![new project](https://raw.githubusercontent.com/pltchuong/WebtestApplication/master/screenshots/2.png)
+![new script](https://raw.githubusercontent.com/pltchuong/WebtestApplication/master/screenshots/3.png)
+![edit script](https://raw.githubusercontent.com/pltchuong/WebtestApplication/master/screenshots/4.png)
+![script execution](https://raw.githubusercontent.com/pltchuong/WebtestApplication/master/screenshots/5.png)
 
 ## Troubleshooting
 #### Could not find artifact com.atlassian.jira:jira-rest-java-client:jar:1.0
