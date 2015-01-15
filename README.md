@@ -7,6 +7,7 @@ WebtestApplication has a standalone version which contains `apache-tomcat-7.0.55
 
 ## Main features
 * Support scheduling execution (with Quazrt cron expression) for entire project or particular scripts.
+* Support JIRA API connection
 * Execution logs and Webtest results are all stored so you can refer back to execution history anytime.
 * Easy to install by using standalone version.
 
